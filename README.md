@@ -1,6 +1,6 @@
 # Slow Dns By ErrorX ( ENGLISH )
 ```
-* ErrorX LOWDNS SCRIPT
+* ErrorX SLOWDNS SCRIPT
 ```
 ![logo](https://raw.githubusercontent.com/khaledagn/DNS-AGN/main/AGN-DNS.png)
 
