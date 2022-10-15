@@ -1,6 +1,6 @@
-# DNS-AGN By KHALED AGN ( ENGLISH )
+# Slow Dns By ErrorX ( ENGLISH )
 ```
-* DNS-AGN SLOWDNS SCRIPT
+* ErrorX LOWDNS SCRIPT
 ```
 ![logo](https://raw.githubusercontent.com/khaledagn/DNS-AGN/main/AGN-DNS.png)
 
@@ -23,21 +23,21 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
 
 # Installation
 ```
-rm -rf install; apt update; wget https://github.com/khaledagn/SlowDNS/raw/main/install; chmod 777 install; ./install --start
+rm -rf install; apt update; wget https://github.com/FakeErrorX/SlowDNS/raw/main/install; chmod 777 install; ./install --start
 
 ```
 
 
-## :octocat: Translated and Modded by KHALED AGN
+## :octocat: Translated and Modded by ErrorX
 <ul>
- <li>TELEGRAM CHANNEL: https://t.me/khaledagn</li>
- <li>FACEBOOK: https://www.facebook.com/khaledagn.me</li>
- <li>INSTAGRAM: https://www.instagram.com/khaledagn</li>
- <li>TWITTER: https://www.instagram.com/khaled_agn</li>
+ <li>TELEGRAM CHANNEL: https://t.me/ErrorX_BD</li>
+ <li>FACEBOOK: https://www.facebook.com/FakeErrorX</li>
+ <li>INSTAGRAM: https://www.instagram.com/FakeErrorX</li>
+ <li>TWITTER: https://www.instagram.com/FakeErrorX</li>
  
  </ul>
  
 
 ## :octocat: Credits
 
-1. [@LaelsonCG )
+1. [@FakeErrorX )
